@@ -1,0 +1,1 @@
+exports.bad =["anjing","Anjing","Memek","Asu","Asw","Bangsat","Tolol","Goblok","Gblk","Ajg","Mmk","memek","bangsat","goblok","tolol","peler","pler","ajg","asw","asu","gblk","mmk","bgst","bngst","anj","anjj","anjg","anjjg","peler","kontol","babi","ngentod","ngetod","co","cok","coo","cook","bacot"]
